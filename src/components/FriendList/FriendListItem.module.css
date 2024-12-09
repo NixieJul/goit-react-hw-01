@@ -1,0 +1,22 @@
+.item {
+ list-style: none;
+ border: 1.5px black solid;
+ border-radius: 10px;
+ width: 100%;
+ text-align: center;
+ padding: 15px;
+}
+
+.name {
+   margin: 0;
+}
+
+.isOnline {
+    color: green;
+    margin: 0;
+}
+
+.isOffline {
+    color: red;
+    margin: 0;
+}
